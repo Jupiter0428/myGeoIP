@@ -1,1 +1,1 @@
-# myGeoip
+# myGeoIP
