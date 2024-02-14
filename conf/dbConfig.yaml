@@ -1,0 +1,6 @@
+city:
+    path: GeoLite2-City.mmdb
+    supportedLanguages: ["de", "en", "es", "fr", "ja", "pt-BR", "ru", "zh-CN"]
+    defaultLanguage: "en"
+asn:
+    path: GeoLite2-ASN.mmdb
